@@ -3,8 +3,6 @@ def addition(num1, num2)
   returns addition
 end
 
-addition
-
 def subtraction(num1, num2)
 
 end
